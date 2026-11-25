@@ -1,0 +1,8 @@
+{
+  "name": "Sinergika Website",
+  "description": "Perusahaan rekayasa teknologi untuk custom software, aplikasi mobile/web, sistem IoT, dan otomasi robotika.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
